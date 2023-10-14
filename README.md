@@ -21,6 +21,13 @@ In this guide i wiil **give you tips to harden you Keepass** and a **KeePass.con
 > The XML file contains password generation profiles that comply with ANSSI standards
 <br>
 
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+</Configuration>
+```
+
 ## Profiles 
 
 
